@@ -1,0 +1,19 @@
+# compiled python files
+*.pyc
+
+# temporary or generated files
+assets/
+out/
+tmp/
+logs/
+
+# PyCharm files
+.idea/
+
+# virual env
+[v]env/
+[v]env-gpu/
+
+# stored models
+*.h5
+
